@@ -1,0 +1,1 @@
+Another CPF validator in JS, but with Class.
